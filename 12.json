@@ -16,7 +16,8 @@
           "category": "Digistump",
           "url": "https://codeload.github.com/adnan-alhomssi/DigistumpArduinoDe/zip/master",
           "archiveFileName": "DigistumpArduinoDe-master.zip",
-          "size": "2632970",
+          "checksum": "SHA-256:7F7E9F5AB982163F7A792C411326F0192A35B8A90890B7934F2F424A5426583D",
+          "size": "2491070",
           "help": {
             "online": "https://github.com/digistump/DigistumpArduino/issues"
           },
