@@ -16,8 +16,7 @@
           "category": "Digistump",
           "url": "http://zipshare.blob.core.windows.net/1eafbf69-c05b-4867-9a7f-bd91dd4c5528/DigistumpArduinoDe-master.zip",
           "archiveFileName": "DigistumpArduinoDe-master.zip",
-          "checksum": "SHA-256:7F7E9F5AB982163F7A792C411326F0192A35B8A90890B7934F2F424A5426583D",
-          "size": "2491070",
+          
           "help": {
             "online": "https://github.com/digistump/DigistumpArduino/issues"
           },
